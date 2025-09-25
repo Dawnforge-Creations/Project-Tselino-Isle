@@ -1,0 +1,6 @@
+GenericEntity : "{56DA7A01AE88C7D6}Prefabs/Sounds/Environment/Arland/AmbientSounds_Arland.et" {
+ coords 2441.493 10.97 1940.242
+}
+SoundWorld : "{FBE5065D0273E9E1}Prefabs/Sounds/SoundWorld/SoundWorld_Base.et" {
+ coords 2449.407 10.34 1938.604
+}
