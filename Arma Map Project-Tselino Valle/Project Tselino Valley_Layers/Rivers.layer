@@ -496,3 +496,24 @@ $grp SplineShapeEntity {
   }
  }
 }
+StaticModelEntity : "{1288D9926C434DB8}PrefabLibrary/Terrain/Erosion/ErodedEmbankment_01_forest_wave.et" {
+ coords 3064.435 3.966 2138.217
+ angleX 12.826
+ angleY 132.18
+ angleZ -2.052
+ scale 2.89
+}
+StaticModelEntity : "{5E7DCD0C74688ADE}PrefabLibrary/Terrain/Erosion/ErodedEmbankment_01_forest_turnin.et" {
+ coords 3043.692 4.818 2177.482
+ angleX 18.296
+ angleY -18.554
+ angleZ 1.087
+ scale 1.661
+}
+StaticModelEntity : "{AFC5471AE0EB8294}PrefabLibrary/Terrain/Erosion/ErodedEmbankment_01_forest_straight.et" {
+ coords 3065.739 2.668 2170.902
+ angleX 11.806
+ angleY 3.943
+ angleZ 0.61
+ scale 1.668
+}
