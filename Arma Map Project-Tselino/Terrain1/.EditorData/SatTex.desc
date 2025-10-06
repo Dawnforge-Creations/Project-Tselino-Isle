@@ -1,0 +1,7 @@
+SatGenDescClass {
+ FileName "A:/Gaea Extra Stuff/Build Output/Arma/001/Combine_Out.png"
+ sRGBOutput 1
+ RenderRoads 1
+ Interpolation bilinear
+ RoadsAA "8x"
+}

@@ -1,0 +1,7 @@
+HeightMapImportDescClass {
+ FileName "A:/Gaea Extra Stuff/Build Output/Arma/002/Rivers_Out.png"
+ Flags 1
+ MinHeight -1000000
+ ResampleMinHeight 0
+ ResampleMaxHeight 1
+}

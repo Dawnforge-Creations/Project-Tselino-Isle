@@ -1,0 +1,7 @@
+ShoreImportMaskDialogConfig {
+ FileName "A:/Gaea Extra Stuff/Build Output/Arma/001/Rivers_Rivers.png"
+ BoundsType 0
+ BoundsTerrainMargin 100
+ CustomBounds 0 0 0 0
+ ContainsFoam 1
+}

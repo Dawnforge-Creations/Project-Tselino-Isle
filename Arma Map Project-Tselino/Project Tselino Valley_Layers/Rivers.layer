@@ -495,6 +495,254 @@ $grp SplineShapeEntity {
    }
   }
  }
+ {
+  coords 2566.632 42.196 1249.427
+  Points {
+   ShapePoint "{6679071FC89819DC}" {
+    Position 1.53 -0.041 -2.038
+   }
+   ShapePoint "{6679071FC996C494}" {
+    Position 15.877 -2.071 -13.623
+   }
+   ShapePoint "{6679071FC912C941}" {
+    Position 29.187 -2.388 -12.615
+   }
+   ShapePoint "{6679071FCA9F27A1}" {
+    Position 41.661 -3.346 -16.39
+   }
+   ShapePoint "{6679071FCA0F8F40}" {
+    Position 55.023 -3.82 -13.589
+   }
+   ShapePoint "{6679071FCBC73386}" {
+    Position 65.527 -4.229 -14.515
+   }
+   ShapePoint "{6679071FC41F03FF}" {
+    Position 77.765 -4.593 -21.326
+   }
+   ShapePoint "{6679071FC5554C52}" {
+    Position 94.232 -5.609 -24.164
+   }
+   ShapePoint "{6679071FC637B106}" {
+    Position 103.183 -6.067 -36.257
+   }
+   ShapePoint "{6679071FC7B0058C}" {
+    Position 98.079 -9.258 -61.545
+   }
+   ShapePoint "{6679071FC7C2ABB3}" {
+    Position 103.968 -15.13 -80.805
+   }
+   ShapePoint "{6679071FC754D6D2}" {
+    Position 119.118 -18.965 -93.351
+   }
+   ShapePoint "{6679071FC0D5C6B7}" {
+    Position 164.703 -21.416 -115.612
+   }
+   ShapePoint "{6679071FC12DC6CA}" {
+    Position 176.756 -23.124 -131.354
+   }
+   ShapePoint "{6679071FC3B3F186}" {
+    Position 195.249 -26.852 -148.547
+   }
+   ShapePoint "{6679071FBCC10146}" {
+    Position 205.392 -27.452 -157.163
+   }
+   ShapePoint "{6679071CC1E621C7}" {
+    Position 208.257 -27.685 -167.083
+   }
+   ShapePoint "{6679071CC2F5DE02}" {
+    Position 192.137 -28.171 -179.553
+   }
+   ShapePoint "{6679071CC27225CF}" {
+    Position 192.171 -28.67 -203.525
+   }
+   ShapePoint "{6679071CBC10E1E8}" {
+    Position 224.7 -27.182 -223.324
+   }
+   ShapePoint "{6679071CBEC2B349}" {
+    Position 241.118 -27.592 -238.31
+   }
+   ShapePoint "{6679071CBFA307AC}" {
+    Position 249.56 -28.412 -267.407
+   }
+   ShapePoint "{6679071CBF2C67D8}" {
+    Position 243.002 -30.71 -284.854
+   }
+   ShapePoint "{6679071CB98AD7EE}" {
+    Position 248.923 -32.496 -293.906
+   }
+  }
+  {
+   RiverEntity : "{DBFC6B2C12D5ED5A}PrefabLibrary/Generators/Water/River/R_RiverMedium_01.et" {
+    coords 0 0 0
+    Width 20.4
+    ReverseFlow 1
+    GUID "6679071F984DC814"
+   }
+  }
+ }
+ {
+  coords 1871.075 42.831 1304.435
+  Points {
+   ShapePoint "{6679073B91BCE0C1}" {
+    Position -4.465 0.715 -1.096
+   }
+   ShapePoint "{6679073B91BAD650}" {
+    Position 9.997 -1.574 2.12
+   }
+   ShapePoint "{6679073B843653A2}" {
+    Position 35.514 -3.337 8.282
+   }
+   ShapePoint "{6679073B86F22DF0}" {
+    Position 55.765 -4.108 9.775
+   }
+   ShapePoint "{6679073B87DBA1D0}" {
+    Position 64.99 -4.516 0.479
+   }
+   ShapePoint "{6679073B8074A764}" {
+    Position 61.982 -4.444 -17.411
+   }
+   ShapePoint "{6679073B810F29E7}" {
+    Position 50.029 -4.053 -35.517
+   }
+   ShapePoint "{6679073B8244F886}" {
+    Position 45.117 -4.4 -60.042
+   }
+   ShapePoint "{6679073B7CD4AD75}" {
+    Position 59.261 -4.367 -73.289
+   }
+   ShapePoint "{6679073B7D73D3E0}" {
+    Position 71.762 -4.46 -79.014
+   }
+   ShapePoint "{6679073B7E5C938C}" {
+    Position 88.99 -5.116 -82.505
+   }
+   ShapePoint "{6679073B7FE8678A}" {
+    Position 107.336 -5.955 -66.646
+   }
+   ShapePoint "{6679073B786AA1DE}" {
+    Position 120.812 -6.41 -58.991
+   }
+   ShapePoint "{6679073B79464CD8}" {
+    Position 133.887 -6.58 -59.604
+   }
+   ShapePoint "{6679073B75DF534D}" {
+    Position 144.281 -6.838 -71.996
+   }
+   ShapePoint "{6679073B71E8D78E}" {
+    Position 146.888 -7.802 -89.069
+   }
+   ShapePoint "{6679073B715ED02B}" {
+    Position 142.452 -8.676 -113.478
+   }
+   ShapePoint "{6679073B73D2E21B}" {
+    Position 143.937 -9.881 -128.315
+   }
+   ShapePoint "{6679073B6C5E0DB4}" {
+    Position 158.99 -11.79 -138.126
+   }
+   ShapePoint "{6679073B6D36D3E1}" {
+    Position 187.315 -14.104 -149.436
+   }
+   ShapePoint "{6679073B6F991908}" {
+    Position 200.591 -15.622 -161.867
+   }
+   ShapePoint "{6679073B68CDD7ED}" {
+    Position 207.141 -17.414 -179.138
+   }
+   ShapePoint "{6679073B69B59765}" {
+    Position 207.801 -20.949 -206.248
+   }
+   ShapePoint "{6679073B6BB7E038}" {
+    Position 203.383 -23.937 -218.718
+   }
+  }
+  {
+   RiverEntity : "{DBFC6B2C12D5ED5A}PrefabLibrary/Generators/Water/River/R_RiverMedium_01.et" {
+    coords 0 0 0
+    Width 20.4
+    ReverseFlow 1
+    GUID "6679073B44EC86A9"
+   }
+  }
+ }
+ {
+  coords 1326.248 50.955 1191.168
+  Points {
+   ShapePoint "{667C072E0E816F39}" {
+    Position -154.303 -46.673 -288.174
+   }
+   ShapePoint "{667C072E0E61A27A}" {
+    Position -138.974 -42.765 -273.955
+   }
+   ShapePoint "{667C072E0F392185}" {
+    Position -139.295 -41.745 -264.347
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -5.321 0.447 9.987
+      OutTangent -5.321 0.447 9.987
+     }
+    }
+   }
+   ShapePoint "{667C072E0F452A86}" {
+    Position -144.467 -41.709 -251.919
+   }
+   ShapePoint "{667C072E08D0B61A}" {
+    Position -132.888 -39.694 -223.308
+   }
+   ShapePoint "{667C072E080629C3}" {
+    Position -114.748 -37.906 -204.968
+   }
+   ShapePoint "{667C072E09B45778}" {
+    Position -97.284 -36.21 -191.017
+   }
+   ShapePoint "{667C072E09E225E3}" {
+    Position -73.96 -34.023 -176.503
+   }
+   ShapePoint "{667C072E096C4D74}" {
+    Position -47.601 -33.266 -170.4
+   }
+   ShapePoint "{667C072E0AFE3C08}" {
+    Position -22.798 -32.813 -155.389
+   }
+   ShapePoint "{667C072E0A56B0A1}" {
+    Position 1.853 -32.922 -141.372
+   }
+   ShapePoint "{667C072E0BF76AE3}" {
+    Position 19.698 -32.622 -123.942
+   }
+   ShapePoint "{667C072E0B06091D}" {
+    Position 25.524 -30.949 -102.586
+   }
+   ShapePoint "{667C072E049B4042}" {
+    Position 24.617 -29.483 -90.767
+   }
+   ShapePoint "{667C072E044D483E}" {
+    Position 17.233 -28.792 -78.774
+   }
+   ShapePoint "{667C072E05D2586C}" {
+    Position 6.415 -23.417 -62.694
+   }
+   ShapePoint "{667C072E06E26F69}" {
+    Position -3.277 -18.215 -48.109
+   }
+   ShapePoint "{667C072E060C0D38}" {
+    Position -6.729 -12.72 -30.319
+   }
+   ShapePoint "{667C072E078ECB2C}" {
+    Position -2.548 -7.668 -16.13
+   }
+   ShapePoint "{667C072E07697823}" {
+    Position 0.025 -1.058 -2.747
+   }
+  }
+  {
+   RiverEntity : "{DBFC6B2C12D5ED5A}PrefabLibrary/Generators/Water/River/R_RiverMedium_01.et" {
+    coords 0 0 0
+    Width 18.8
+    GUID "667C072FFA2D0357"
+   }
+  }
+ }
 }
 StaticModelEntity : "{1288D9926C434DB8}PrefabLibrary/Terrain/Erosion/ErodedEmbankment_01_forest_wave.et" {
  coords 3064.435 3.966 2138.217
