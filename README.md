@@ -1,6 +1,7 @@
 # Tselino Isle is a Arma Reforger map project, lightly inspired by Metal Gear 3: Snake Eater.
 ## Terrain features including cliffs, rocky terrain, forests, and wetlands being the main interesting features.
-![00%](https://progress-bar.xyz/25/?title=progress)
+![00%](https://progress-bar.xyz/25/?title=progress) ![GitHub last commit](https://img.shields.io/github/last-commit/Dawnforge-Creations/Project-Tselino-Isle)
+
 
 <img width="1575" height="885" alt="Screenshot 2025-09-26 003211" src="https://github.com/user-attachments/assets/1da3fed4-e60d-4d90-b18a-e6b29bc7a1c8" />
 
